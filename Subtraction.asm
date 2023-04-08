@@ -1,0 +1,4 @@
+MVI A, 2H
+MVI B, 3H
+SUB B
+HLT
