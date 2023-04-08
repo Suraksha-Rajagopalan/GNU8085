@@ -1,0 +1,7 @@
+
+MVI B, 05H
+MOV A, B
+MVI B, 10H
+ADD B
+STA 4500H
+hlt
