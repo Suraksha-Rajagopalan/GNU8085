@@ -1,0 +1,3 @@
+MVI A, 23
+RLC
+HLT
