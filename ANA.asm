@@ -1,0 +1,4 @@
+MVI A, 23
+MVI B, 65
+ANA B
+HLT
