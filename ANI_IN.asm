@@ -1,0 +1,3 @@
+IN 00H
+ANI 30H
+HLT
