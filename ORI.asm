@@ -1,0 +1,3 @@
+IN 01H
+ORI 30H
+hlt
