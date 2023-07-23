@@ -33,6 +33,21 @@ However, the mostly used are: sign, carry and zero.
 
 <h3>Applications of 8085 microprocessor</h3>
 
-<h3>
-8085 finds its major applications in programmable calculators as well as in numerical control and environment monitoring systems. These are also used in switching, 
-banking and financial systems.</h3>
+
+The Intel 8085 microprocessor, despite being an older 8-bit architecture, has found various applications over the years. While it has been largely replaced by more advanced microprocessors in modern computing, it is still used in some specific applications due to its simplicity, low cost, and ease of implementation. Here are some of the applications of the 8085 processor:
+
+1. Embedded Systems: The 8085 microprocessor is used in various embedded systems and control applications, where the processing power of modern microprocessors is not required. Its low power consumption and simple architecture make it suitable for controlling simple tasks in devices like industrial control systems, home automation, and automotive electronics.
+
+2. Educational and Learning Purposes: The 8085 microprocessor is often used in educational institutions to teach the fundamentals of microprocessor architecture and programming. Its straightforward instruction set and architecture make it an excellent choice for learning the basics of microprocessors and assembly language programming.
+
+3. Legacy Systems: In some cases, the 8085 microprocessor is still used in legacy systems that were developed several decades ago. Replacing the microprocessor in these systems may be costly and impractical, so they continue to operate with the original 8085 chip.
+
+4. Hobbyist Projects: Electronics enthusiasts and hobbyists may use the 8085 microprocessor in their projects due to its availability and ease of use. It can be used in various DIY projects, retro computing, and vintage gaming systems.
+
+5. Control and Instrumentation: The 8085 microprocessor can be found in certain control and instrumentation systems, such as traffic signal controllers, digital multimeters, and basic measurement devices.
+
+6. Medical Devices: Some medical devices, particularly older models, may incorporate the 8085 microprocessor in their designs for basic data processing and control functions.
+
+7. Automation: In some manufacturing and automation systems, the 8085 microprocessor is used for simple control tasks where advanced processing power is not necessary.
+
+It's important to note that while the 8085 microprocessor continues to find application in certain areas, its usage has significantly diminished compared to modern microprocessors like those from the x86 family or ARM architecture. These modern processors offer higher performance, more advanced features, and better energy efficiency, making them more suitable for most current computing needs.
